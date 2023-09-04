@@ -1,10 +1,8 @@
-import java.util.*
-class text
+import java.util.*;
+class Test2
 {
-    System.out.println("Hello");
+ public static void main(String args[])
+{
+ System.out.println("Hello World");
 }
-public static void main(String args[])
-{
-    text ob= new text();
-    system.out.println(ob);
 }
